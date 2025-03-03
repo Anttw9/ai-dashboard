@@ -11,3 +11,4 @@ tensorflow
 openai
 gunicorn
 schedule
+speechrecognition
